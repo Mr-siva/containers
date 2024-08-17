@@ -9,7 +9,7 @@ function CourseGoals(props) {
 
   return (
     <section id='course-goals'>
-      <h2> this live code update</h2>
+      <h2> this live code updates</h2>
       <Card>
         {hasNoGoals && <h2>No goals found. Start adding some!</h2>}
         <ul>
